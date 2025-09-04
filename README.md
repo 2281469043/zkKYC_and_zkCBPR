@@ -102,7 +102,7 @@ This is the demo for zkKYC/zkCBPR:
 https://drive.google.com/file/d/1j6l9KlJQsKt5aF68kua3qJ39AhhXD_SJ/view?usp=drive_link
 
 ## Experiment of Other Dencentralized Verification:
-=View the full experiment documentation here:  
+View the full experiment documentation here:  
 **[`experiment/README.md`](https://github.com/2281469043/zkKYC_and_zkCBPR/tree/main/Experiment)*
 
 
