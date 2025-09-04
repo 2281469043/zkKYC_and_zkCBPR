@@ -101,4 +101,8 @@ Once the server is running, open the app.html , https://Your_local_host_server/a
 This is the demo for zkKYC/zkCBPR:
 https://drive.google.com/file/d/1j6l9KlJQsKt5aF68kua3qJ39AhhXD_SJ/view?usp=drive_link
 
+# Experiment of Other Dencentralized Verification:
+=View the full experiment documentation here:  
+**[`experiment/README.md`](experiment/README.md)*
+
 
