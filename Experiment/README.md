@@ -21,7 +21,7 @@ Before running any scripts, you **must** configure environment variables to enab
 ```env
 # ─── Quadrata ───────────────────────────────────────────────
 QUADRATA_ENV=int                       # Use 'int' for integration/test environment
-QUADRATA_API_KEY=your_quadrata_company_api_key
+QUADRATA_API_KEY=your_quadrata_api_key
 QUADRATA_TEST_WALLET=0x0000000000000000000000000000000000000000
 
 # ─── Privado ID / Zeeve ID ─────────────────────────────────
