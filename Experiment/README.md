@@ -39,7 +39,7 @@ python quadrata_run.py transactions.json
 ## Verite
 Issue and verify VC-JWT credentials locally for each entry (fully offline).
 
-```json
+```python
 python verite_run.py transactions.json
 ```
 
