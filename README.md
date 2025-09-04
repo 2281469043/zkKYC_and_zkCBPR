@@ -97,5 +97,8 @@ This will start the server that communicates with your smart contracts and zkKYC
 ## Launch the Application
 Once the server is running, open the app.html , https://Your_local_host_server/app.html in your browser to begin interacting with the zkKYC and zkCBPR processes.
 
-#Demo:
+# Demo:
+This is the demo for zkKYC/zkCBPR:
 https://drive.google.com/file/d/1j6l9KlJQsKt5aF68kua3qJ39AhhXD_SJ/view?usp=drive_link
+
+
