@@ -32,23 +32,30 @@ Make sure you have installed all dependencies listed in requirements.txt and hav
 ## Quadrata
 Query decentralized identity attributes from Quadrata for each wallet.
 
+```python
 python quadrata_run.py transactions.json
+```
 
 ## Verite
 Issue and verify VC-JWT credentials locally for each entry (fully offline).
 
-
+```json
 python verite_run.py transactions.json
+```
 
 ## Holonym
 Verify if each wallet in the list has a valid Holonym uniqueness or residency proof.
 
+```python
 python holonym_run.py transactions.json
+```
 
 ## Privado ID
 Create a credential for each holder DID using your local or remote Privado Issuer Node.
 
+```python
 python privado_run.py transactions.json
+```
 
 ## Output
 
